@@ -1,1 +1,1 @@
-#Academic Materials
+#AcademicMaterials
